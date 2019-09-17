@@ -1,4 +1,4 @@
 # BigBits
 Tool to visually teach binary to students
 
-![](BigBits animation.gif)
+![BigBits%20animation](https://github.com/dogfugt/BigBits/blob/master/BigBits%20animation.gif?raw=true)
